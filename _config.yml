@@ -1,6 +1,6 @@
 # Site settings
 title: Photogram
-email: ""
+email: "patriaabhishek@gmail.com"
 description: "Photo Journal"
 url: "https://patriaabhishek.github.io"
 baseurl: "/photogram"
@@ -8,9 +8,7 @@ facebook_username: "abhishek.patria"
 twitter_username: "patriaabhishek"
 instagram_username: "patriaabhishek"
 github_username:  "patriaabhishek"
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+
 share: true
 
 # Owner/author information
@@ -33,9 +31,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://patriaabhishek.github.io/photorama/gallery/"  
-  - JOURNAL: "https://patriaabhishek.github.io/photorama/journal/"
-  - ABOUT: "https://patriaabhishek.github.io/photorama/about/"
+  - GALLERY: "https://patriaabhishek.github.io/photogram/gallery/"  
+  - JOURNAL: "https://patriaabhishek.github.io/photogram/journal/"
+  - ABOUT: "https://patriaabhishek.github.io/photogram/about/"
 
 # All translation keys
 translations:
