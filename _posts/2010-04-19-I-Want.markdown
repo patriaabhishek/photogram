@@ -1,0 +1,39 @@
+---
+layout:     post
+title:      "I want ..."
+subtitle:   "Poetry"
+active: journal
+image:
+  feature: "i_want.jpg"
+date:       2010-04-19 
+header-img: "img/postcover/i_want.jpg"
+tags: [tag03]
+categories: [cat04]
+comments: false
+---
+<p>I want an earth free from quarrel</p>
+<p>so I would rest soundly and not rattle</p>
+<br>
+<br>
+<p>I want a person who is very special</p>
+<p>that thou would support me in my deadliest battles</p>
+<br>
+<br>
+<p>I want to share my thoughts</p>
+<p>don't you know, good moments can't be bought</p>
+<br>
+<br>
+<p>I want a teacher who who can teach me to loose</p>
+<p>because winning everytime is not like a cooked goose</p>
+<br>
+<br>
+<p>I want some console and some game disks</p>
+<p>as I don't have enough money to frisk</p>
+<br>
+<br>
+<p>Alas in this dire need of want</p>
+<p>I myself don't know how much I have lost</p>
+<br>
+<br>
+<p>Above all I(still want) my life back</p>
+<p>As god has given us a chance to live without time lags</p>

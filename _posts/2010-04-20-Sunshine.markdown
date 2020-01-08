@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Sunshine"
+subtitle:   "Poetry"
+active: journal
+image:
+  feature: "sunshine.jpg"
+date:       2010-04-20 
+header-img: "img/postcover/sunshine.jpg"
+tags: [tag03]
+categories: [cat04]
+comments: false
+---
+
+<p>A window opened</p>
+<p>and came the arrow of brightness</p>
+<br>
+<br>
+<p>It hit me hard somewhere deep in my heart,</p>
+<p>just to make me reliase its prowess.</p>
+<br>
+<br>
+<p>I felt my mind was boggled and soul shrovelled</p>
+<p>but it was a, transition, from darkness</p>
+<br>
+<br>
+<p>Like a bull's power, it was an uncontrolled reaction</p>
+<p>to baptize me from an unholy Bacchus.</p>
